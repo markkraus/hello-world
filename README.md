@@ -5,3 +5,12 @@ This code snippet will very simply ask the user for your name and favorite color
 # How to use the code?
 
 Using the code requires the user to download the Python file. After downloading, the user just needs to run the code. At this point the code should input the user with a question; "What is your name?" When the user enters this data they will immediately be asked a second question, their favorite color. Finally, after this data is entered the code will print out a sentence stating the name of the user and their favorite color. Make sure that when entering the data, you stick strictly to letters and words. Obviously there is no need for numbers, but if a number, or integer, is submitted the code will crash and require restarting.
+
+# Contribution
+
+Contributions are more than welcome as the existing code is incredibly basic. Because it is just a test of python code, any fun addition is welcome. 
+
+## Steps to add changes
+* Edit existing python program by adding something new or fun
+* Create pull request on github
+* Wait to see if it is approved
